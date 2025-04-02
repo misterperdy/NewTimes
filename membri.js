@@ -29,10 +29,3 @@ function activeazaSezonul(sezonNum) {
     });
   }
   
-  // Funcții individuale pentru fiecare buton
-  function activatesez5() { activeazaSezonul(5); }
-  function activatesez4() { activeazaSezonul(4); }
-  function activatesez3() { activeazaSezonul(3); }
-  function activatesez2() { activeazaSezonul(2); }
-  function activatesez1() { activeazaSezonul(1); }
-  
